@@ -28,3 +28,5 @@ nosetests.xml
 
 # IPython
 .ipynb_checkpoints/
+archive
+*.pages
